@@ -1,7 +1,13 @@
 [package]
+license = "MIT OR Apache-2.0"
 name = "sccc"
+description = "Spring Cloud Config Server Reader"
 version = "0.1.0"
 edition = "2021"
+homepage = "https://github.com/zenas0810/sccc"
+documentation = "https://github.com/zenas0810/sccc"
+repository = "https://github.com/zenas0810/sccc"
+readme = "README.md"
 
 [dependencies]
 reqwest = "0.11.18"
